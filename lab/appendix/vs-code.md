@@ -78,6 +78,15 @@ Copy inside the terminal:
 - Select text.
 - Press `Ctrl+Shift+C` (`Cmd+C` on `macOS`).
 
+Paste inside the terminal:
+
+- `Ctrl+Shift+V` (`Cmd+V` on `macOS`, `Ctrl+V` on `Windows`)
+
+Run a command:
+
+- Write or paste a command.
+- Press `Enter`.
+
 ## `Folders`
 
 View the file tree.
