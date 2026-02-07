@@ -113,15 +113,15 @@ List two or more questions that you couldn't answer based on the openly availabl
 
 ## Acceptance criteria
 
-- [ ] Issue created
-- [ ] `docs/architecture.md` created with all required sections
-- [ ] Product name, link, and description are present
-- [ ] Component diagram is visible
-- [ ] At least 5 components are described (1-2 sentences each)
-- [ ] Sequence diagram is visible
-- [ ] Data flow description explains which components interact and what data they exchange during a user action
-- [ ] Deployment diagram is visible
-- [ ] Deployment is briefly described
-- [ ] At least 2 assumptions and 2 open questions listed
-- [ ] Partner reviewed and approved
-- [ ] PR merged
+- [x] Issue created
+- [x] `docs/architecture.md` created with all required sections
+- [x] Product name, link, and description are present
+- [x] Component diagram is visible
+- [x] At least 5 components are described (1-2 sentences each)
+- [x] Sequence diagram is visible
+- [x] Data flow description explains which components interact and what data they exchange during a user action
+- [x] Deployment diagram is visible
+- [x] Deployment is briefly described
+- [x] At least 2 assumptions and 2 open questions listed
+- [x] Partner reviewed and approved
+- [x] PR merged
